@@ -73,7 +73,6 @@ O protótipo demonstra a leitura de valores por meio de um potenciômetro, o pro
 | 1     | 20              | LED Verde      |
 | 2     | 50              | LED Azul       |
 | 3     | 80              | LED Vermelho   |
-| 4     | 90              | Alerta Ativado |
 
 ## Sustentabilidade e Energias Renováveis
 
