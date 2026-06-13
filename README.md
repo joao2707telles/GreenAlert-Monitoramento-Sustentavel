@@ -54,6 +54,7 @@ A solução desenvolvida utiliza sensores para coletar dados em tempo real. Essa
 ## Diagrama do Sistema
 
 <img width="1751" height="723" alt="Captura de tela 2026-06-12 212315" src="https://github.com/user-attachments/assets/323ca8c1-04bc-46b8-b0e1-6cf44308b277" />
+Figura 1 – Protótipo funcional do sistema GreenAlert desenvolvido no Tinkercad.
 
 ## Justificativa Técnica
 
