@@ -39,7 +39,6 @@ A solução desenvolvida utiliza sensores para coletar dados em tempo real. Essa
 * Arduino Uno
 * Potenciômetro
 * LEDs indicadores
-* Protoboard
 * Cabos de conexão
 
 ### Funcionamento
