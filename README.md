@@ -94,5 +94,5 @@ O protótipo desenvolvido atingiu os objetivos propostos, demonstrando de forma 
 
 ## Vídeo Demonstrativo
 
-(link do vídeo no YouTube)
+https://youtu.be/DajCFjkX4VQ
 
